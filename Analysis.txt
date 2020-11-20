@@ -1,0 +1,10 @@
+First phenomenon - seasonality:
+Citi Bike experiences increased usage and trip length during warmer months. With this in mind, the company should make every effort to complete regular maintenance on bikes during the winter to maximize profits during the busy spring and summer months.
+Regardless of the season, typical commute hours (7-9 am and 5-6 pm) are the most common ride start times. However, there is increased usage throughout the entire day during the warmer months.
+Unsurprisingly, more rides occur during the warm months of April - October than in the colder months of November - March. The average trip duration also sees an increase during the summer, with the longest average rides occuring in the months of May - July.
+
+Second phenomenon - demographics:
+Citi Bike's highest utilizers are males and those between the age of 30 and 39. However, those between the ages of 10 and 19 have the longest trip duration, followed by the 50-59 age bracket. Citi Bike could consider increasing their marketing efforts towards these age brackets in hopes they will also take longer rides throughout the city.
+
+Map analysis:
+Most 2019 rides began in Jersey City and surrounding suburbs, then also ended in nearby areas. However, some riders ventured throughout NYC and ended their ride in the city.
